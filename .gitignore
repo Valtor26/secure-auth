@@ -1,0 +1,2 @@
+# Ignore application properties to keep secrets out of version control
+/src/main/resources/application.properties
